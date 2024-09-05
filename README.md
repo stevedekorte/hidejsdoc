@@ -17,6 +17,14 @@ You can unfold the jsdocs to view them.
 
 I'd like to publish this to the marketplace, but I ran into issues with Azure and don't have time to look into it further right now.
 
-### Support (talk to the AI)
+### Development
 
-I had the idea for this extension but entirely used Cursor.app (with Claude 3.5 Sonnet) to write and debug the code. I didn't even look at code, so I can't vouch for it. If you have an issue, please open the source in Cursor (or a similar IDE) and ask it to fix it.
+I had the idea for this extension but used Cursor.app (with Claude 3.5 Sonnet) to write and debug the code. I didn't even look at code, so I can't vouch for it. _Use at your own risk_.
+
+### Support
+
+If you have an issue, please open the source in Cursor (or a similar IDE) and ask it to fix it. That's all I would do anyways.
+
+### Contributing
+
+If you make an improvement you'd like to share, feel free to make a pull request.
