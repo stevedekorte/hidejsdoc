@@ -8,8 +8,9 @@ You can unfold the jsdocs to view them.
 
 ## How to install
 
-1. Open VSCode and go to the Extensions view.
-2. Drag the .vsix file from this repository into the Extensions view.
+1. Download the .vsix file from this repository.
+2. Open VSCode and go to the Extensions view (click the 4 squares with one offset icon).
+3. Drag the .vsix file into the Extensions view.
 
 ## Notes
 
