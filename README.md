@@ -6,7 +6,7 @@ A tiny extension that auto folds all JSDocs when a file is opened.
 This helps to reduce visual clutter and focus on the code.
 You can unfold the jsdocs to view them.
 
-## How to install this extension:
+## How to install
 
 1. Open VSCode and go to the Extensions view.
 2. Drag the .vsix file from this repository into the Extensions view.
