@@ -1,0 +1,22 @@
+{
+    // Remove the following folding-related settings if they exist:
+    // "editor.folding": true,
+    // "editor.foldingStrategy": "indentation",
+    // "editor.foldingImportsByDefault": false,
+    // "editor.unfoldOnClickAfterEndOfLine": true,
+    // "editor.foldingMaximumRegions": 10000,
+    // "editor.foldingHighlight": false,
+    // "editor.showFoldingControls": "always",
+    // "editor.foldingStartMarker": "...",
+    // "editor.foldingStopMarker": "...",
+
+    // If there were any language-specific folding settings, remove those too:
+    // "[javascript]": {
+    //     // Remove any folding-related settings here
+    // },
+    // "[typescript]": {
+    //     // Remove any folding-related settings here
+    // }
+
+    // Keep all other non-folding related settings intact
+}
